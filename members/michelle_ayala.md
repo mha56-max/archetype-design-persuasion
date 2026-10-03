@@ -27,4 +27,4 @@ With this project, I was able to learn about how persuasion is built from small 
 
 # Shared work
 
- Setting up the group repository and sharing page formats with my teammates that I followed.
+ The group repository was set up by my group members, and I followed the page formats they shared.
